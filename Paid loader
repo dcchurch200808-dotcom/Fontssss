@@ -1,0 +1,5 @@
+if (game.GameId == 10769082317) then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/6097660147ad906d274a7f67137cbb3b.lua"))();
+elseif (game.GameId == 6035872082) then
+	loadstring(game:HttpGet("https://api.luarmor.net/files/v4/loaders/69505626c00d4e18df473396e31c4177.lua"))();
+end;
